@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "bot1",
+    "username": "bot2",
     "password": "",
     "type": "offline"
   },
@@ -32,14 +32,14 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to paradise_plays_7",
+        "follow to paradise_plays_7 on insta",
         "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 1,
+    "max-reconnect-delay": 1
   },
   "movement": {
     "enabled": true,
